@@ -1,3 +1,8 @@
+# Navigating through different pages in the provided netlify link
+You can use /login, /signup and /profile to navigate to the pages other than the landing page.
+You can also go to login or signup page by clicking on the buttons but for profile page you have to use /profile with the url provided.
+Site URL: https://spectacular-alfajores-ac96b4.netlify.app/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
